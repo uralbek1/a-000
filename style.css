@@ -1,6 +1,7 @@
 html{box-sizing:border-box}*,*:before,*:after{box-sizing:inherit}
 html{-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}
 .header {
-    padding-top: ;
+    padding-top: 3.5px;
     padding-left: 18px;
+    padding-bottom: 2.5px;
 }
