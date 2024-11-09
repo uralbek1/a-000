@@ -6,5 +6,7 @@ html{-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}
     padding-bottom: 2.5px;
 }
 .logotip {
-    
+    color: #02A4D3;
+    font-family: "Oswald";
+    font-weight: bold;
 }
