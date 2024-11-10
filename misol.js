@@ -1,1 +1,1 @@
-const text = '["Uralbek UZ", "]'
+const text = '["Uralbek UZ", "Onlayn xususiy baza"]'
