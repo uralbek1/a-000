@@ -1,1 +1,1 @@
-const text = '['
+const text = '["Uralbek UZ", "]'
